@@ -23,4 +23,8 @@ Enter below command in terminal to execute code-
 
 npm run dev
 
+OR
+
+Run index.html in browser
+
 
